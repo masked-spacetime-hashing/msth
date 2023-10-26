@@ -1,6 +1,8 @@
 # MSTH: Masked Space-Time Hash Encoding for Efficient Dynamic Scene Reconstruction
+[Under construction]
 
 [Feng Wang]()<sup>1*</sup>, [Zilong Chen]()<sup>1*</sup>, Guokang Wang<sup>1</sup>, Yafei Song<sup>2</sup>, [Huaping Liu]()<sup>1</sup>
+
 <sup>1</sup>Department of Computer Science and Technology, Tsinghua University <sup>2</sup>Alibaba Group
 NeurIPS 2023 Splotlight
 
@@ -11,16 +13,16 @@ We propose the Masked Space-Time Hash encoding (MSTH), a novel method for effici
 
 ### Demos
 #### [Plenoptic Dataset](https://neural-3d-video.github.io/)
-#### Immersive Dataset
-#### D-NeRF Dataset
-#### Campus Dataset
+#### [Immersive Dataset](https://augmentedperception.github.io/deepviewvideo/)
+#### [D-NeRF Dataset](https://www.albertpumarola.com/research/D-NeRF/index.html)
+#### [Campus Dataset](https://github.com/masked-spacetime-hashing/msth/releases)
 
 ### Instructions
 #### Create env
 ```bash
 conda create -n MSTH python=3.8
 ```
-#### Install dependencies
+### Install dependencies
 ```bash
 pip install -e .
 ```
@@ -34,13 +36,12 @@ python download.py <dataset-name> --scene <scene-name>
 ```
 #### Run MSTH
 ```bash
-python train.py <config-name> --experiment-name <exp-name> --vis <logger> --output-dir <output-dir>
+python -m MSTH.script.train <config-name> --experiment-name <exp-name> --vis <logger> --output-dir <output-dir>
 ```
 #### Viewer
 Our code provides a viewer based on the [NeRFStudio web viewer]().
 
 ### Campus Dataset
-
 
 ### Acknowledgements
 - NeRFStudio. Our code is built upon nerfstudio. 
