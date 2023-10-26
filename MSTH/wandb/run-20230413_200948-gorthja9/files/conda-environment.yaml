@@ -1,0 +1,4 @@
+name: nerfstudio
+channels:
+  - defaults
+prefix: /home/feng/.conda/envs/nerfstudio
