@@ -22,7 +22,7 @@ https://github.com/masked-spacetime-hashing/msth/assets/43294876/c14dcb57-c600-4
 
 https://github.com/masked-spacetime-hashing/msth/assets/43294876/7094fee1-3cfb-49f4-abed-dc5f61a7fb72
 
-#### [Campus Dataset](https://github.com/masked-spacetime-hashing/msth/releases)
+#### [Campus Dataset](https://huggingface.co/datasets/masked-spacetime-hashing/Campus)
 
 https://github.com/masked-spacetime-hashing/msth/assets/43294876/1fbc7417-e66b-4cdd-8e8c-1863f031fa30
 
