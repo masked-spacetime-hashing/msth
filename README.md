@@ -54,6 +54,5 @@ Our code provides a viewer based on the [NeRFStudio web viewer]().
 ### Campus Dataset
 
 ### Acknowledgements
-- NeRFStudio. Our code is built upon nerfstudio. 
+- NeRFStudio
 - MixVoxel
-- Nerfies
