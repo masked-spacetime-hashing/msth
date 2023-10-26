@@ -13,17 +13,14 @@ We propose the Masked Space-Time Hash encoding (MSTH), a novel method for effici
 ### Demos
 #### [Immersive Dataset](https://augmentedperception.github.io/deepviewvideo/)
 
-
-https://github.com/masked-spacetime-hashing/msth/assets/43294876/1d2307c1-ef95-4a11-94b4-6482689bb573
+https://github.com/masked-spacetime-hashing/msth/assets/43294876/c14dcb57-c600-43b9-adf1-f8a532785d8f
 
 
 #### [Plenoptic Dataset](https://neural-3d-video.github.io/)
 
-
 https://github.com/masked-spacetime-hashing/msth/assets/43294876/7094fee1-3cfb-49f4-abed-dc5f61a7fb72
 
 #### [Campus Dataset](https://github.com/masked-spacetime-hashing/msth/releases)
-
 
 https://github.com/masked-spacetime-hashing/msth/assets/43294876/1fbc7417-e66b-4cdd-8e8c-1863f031fa30
 
