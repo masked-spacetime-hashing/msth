@@ -1,7 +1,7 @@
 # Masked Space-Time Hash Encoding for Efficient Dynamic Scene Reconstruction
 [NeurIPS 2023 Spotlight]
 
-[Project Page](https://masked-spacetime-hashing.github.io/) | [Paper](https://openreview.net/pdf?id=lSLYXuLqRQ) | [Data](https://huggingface.co/datasets/masked-spacetime-hashing/Campus)
+[Project Page](https://masked-spacetime-hashing.github.io/) | [Paper](https://arxiv.org/pdf/2310.17527.pdf) | [Data](https://huggingface.co/datasets/masked-spacetime-hashing/Campus)
 
 [Feng Wang]()<sup>1*</sup>, [Zilong Chen]()<sup>1*</sup>, Guokang Wang<sup>1</sup>, Yafei Song<sup>2</sup>, [Huaping Liu]()<sup>1</sup>
 
